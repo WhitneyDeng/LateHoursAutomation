@@ -1,0 +1,1 @@
+A script to calculate late hours used by students. Built when I was a TA for Data Structures & Algorithm for [Prof. Paul Blaer](https://www.engineering.columbia.edu/faculty-staff/directory/paul-blaer)
